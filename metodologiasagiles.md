@@ -63,7 +63,7 @@ La idea principal es definir las pruebas que el sistema debe pasar antes de escr
 
 
 
-## 3. Marcos de trabajos ágiles.
+## 3. Marcos de trabajo ágiles.
 
 A continuación vamos ver dos ejemplos marcos de trabajo ágiles que se pueden utilizar para el desarrollo de proyectos completos:
 
