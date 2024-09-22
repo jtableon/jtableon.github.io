@@ -60,7 +60,31 @@ En esta reunión, el Scrum Master es el encargado de asegurarse de que el equipo
 
 ### Daily Scrum (Reunión diaria)
 
-Además de la reunión al inicio de la iteración, en Scrum también hay reuniones diarias, donde se discute el estado del proyecto, lo que se ha hecho y lo que está por hacerse. También hay una reunión final al terminar la iteración para revisar la versión o prototipo obtenido.
+Es una reunión breve que se realiza todos los días, generalmente por la mañana. Su objetivo principal es que los miembros del equipo compartan información sobre el progreso de su trabajo. Para ello, cada miembro del equipo debe responder a tres preguntas clave:
+
+1. ¿Qué hice ayer? - Qué trabajo se ha realizado desde la última reunión.
+2. ¿Qué haré hoy? - Indicar el trabajo que se va a realizar hasta la siguiente sesión.
+3. ¿Hay algún impedimento? - Se discuten los obstáculos o problemas que podrían estar bloqueando el progreso.
+
+Se recomienda que la reunión se realice todos los días en el mismo lugar a la misma hora, que sea breve, de unos 15 minutos, y que se realice de pie para mantenerla ágil y enfocada. Es una forma de fomentar la comunicación y la colaboración dentro del equipo. 
+
+El Scrum Master es el responsable de que la reunión no exceda el tiempo establecido y de informar sobre el estado de los problemas detectados al Product Owner para que tome las decisiones oportunas.
+
+Las ventajas de realizar esta reunión diaria son numerosas:
+
+1. Comunicación constante: Fomentan la comunicación abierta entre los miembros del equipo, lo que ayuda a mantener a todos informados sobre el progreso y los obstáculos encontrados.
+
+2. Identificación temprana de problemas: Al discutir lo que cada uno ha hecho, lo que planea hacer y cualquier impedimento, se pueden identificar y abordar problemas rápidamente antes de que se conviertan en obstáculos mayores.
+
+3. Alineación del equipo: Ayudan a asegurar que todos estén alineados con los objetivos del sprint y comprendan las prioridades del día.
+
+4. Responsabilidad: Cada miembro del equipo se siente más responsable de su trabajo, ya que comparte su progreso y compromisos con el grupo.
+
+5. Mejora continua: Estas reuniones ofrecen una oportunidad para reflexionar sobre el proceso y hacer ajustes en tiempo real, lo que fomenta la mejora continua.
+
+6. Motivación: Ver el progreso de los demás puede ser motivador y crear un sentido de camaradería dentro del equipo.
+
+
 
 ### Sprint Review (Revisión del Sprint)
 
