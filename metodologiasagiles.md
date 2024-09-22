@@ -1,4 +1,5 @@
 # Metodologías de software
+---
 
 ## Metodologías ágiles
 
@@ -65,6 +66,8 @@ La idea principal es definir las pruebas que el sistema debe pasar antes de escr
 ## 3. Ejemplos de metodologías ágiles
 
 A continuación vamos ver dos ejemplos de metodologías ágiles que se pueden utilizar para el desarrollo de proyectos completos:
+- [Scrum](scrum.md)
+- [Kanban](kanban.md)
 
 Scrum es una metodología ágil que se puede utilizar en proyectos complejos. Utiliza procesos iterativos e incrementales, y puede aplicarse tanto a productos de software como a otros ámbitos. Su nombre proviene de la "melé" que realizan los jugadores de rugby.
 
