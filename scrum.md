@@ -25,7 +25,7 @@ A cada historia de usuario en el backlog se le asigna un tiempo, generalmente en
 
 Para determinar si el tiempo estimado total difiere mucho del tiempo real, podemos usar algunas herramientas adicionales, como los **gráficos de quemado** (*burndown charts*), que nos ayudan de manera gráfica a determinar qué medidas se pueden tomar para reducir esta diferencia.
 
-
+![Burndown Chart](/burndown_charts.png)
 
 
 ---
