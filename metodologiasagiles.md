@@ -61,7 +61,7 @@ Es importante tener un conjunto de pruebas unitarias que puedan ejecutarse autom
 
 La idea principal es definir las pruebas que el sistema debe pasar antes de escribir el código correspondiente, asegurándonos de que la aplicación puede verificarse y definiendo pruebas para cada funcionalidad. De esta manera, evitamos escribir código innecesario (esto es, código que no está asociado a ninguna prueba).
 
----
+
 
 ## 3. Ejemplos de metodologías ágiles
 
