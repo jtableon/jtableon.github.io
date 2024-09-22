@@ -2,7 +2,33 @@
 
 ## ¿Qué es Scrum?
 
-Scrum es un marco de trabajo ágil que se utiliza principalmente en el desarrollo de software, aunque también se puede aplicar en otros campos. Su objetivo es facilitar la colaboración entre equipos y mejorar la entrega de productos de manera incremental y continua. 
+Scrum es un marco de trabajo ágil que se puede utilizar para abordar proyectos complejos. Su objetivo es facilitar la colaboración entre equipos y mejorar la entrega de productos de manera incremental y continua, permitiendo a los equipos ser más ágiles y adaptarse a los cambios.
+
+Este marco de trabajo se puede aplicar tanto en proyectos de desarrollo de software como en proyectos de sistemas o de otros ámbitos. 
+
+
+## Pilares de Scrum
+
+Scrum se basa en tres pilares fundamentales:
+
+- Transparencia
+
+El proceso emergente y el trabajo deben ser visibles tanto para quienes realizan el trabajo como para quienes lo reciben. Con Scrum, las decisiones importantes se basan en el estado percibido de sus tres artefactos formales. Los artefactos que tienen baja transparencia pueden llevar a decisiones que disminuyen el valor y aumentan el riesgo.
+
+La transparencia permite la inspección. La inspección sin transparencia es engañosa y una pérdida de tiempo.
+
+### Inspección
+
+Los artefactos de Scrum y el progreso hacia los objetivos acordados deben ser inspeccionados con frecuencia y de manera diligente para detectar posibles desviaciones o problemas. Para ayudar en la inspección, Scrum proporciona una cadencia en forma de sus cinco eventos.
+
+La inspección permite la adaptación. La inspección sin adaptación se considera inútil. Los eventos de Scrum están diseñados para provocar cambios.
+
+### Adaptación
+
+Si algún aspecto de un proceso se desvía de los límites aceptables o si el producto resultante no es aceptable, el proceso que se está aplicando o los materiales que se están produciendo deben ajustarse. El ajuste debe realizarse lo antes posible para minimizar más desviaciones.
+
+La adaptación se vuelve más difícil cuando las personas involucradas no están empoderadas o no son autogestionadas. Se espera que un equipo Scrum se adapte en el momento en que aprenda algo nuevo a través de la inspección.
+
 
 En pocas palabras, Scrum requiere un Scrum Master para fomentar un entorno donde:
 
@@ -23,23 +49,7 @@ Scrum emplea un enfoque iterativo e incremental para optimizar la previsibilidad
 
 Scrum combina cuatro eventos formales de inspección y adaptación dentro de un evento contenedor, el Sprint. Estos eventos funcionan porque implementan los pilares empíricos de Scrum: transparencia, inspección y adaptación.
 
-### Transparencia
 
-El proceso emergente y el trabajo deben ser visibles tanto para quienes realizan el trabajo como para quienes lo reciben. Con Scrum, las decisiones importantes se basan en el estado percibido de sus tres artefactos formales. Los artefactos que tienen baja transparencia pueden llevar a decisiones que disminuyen el valor y aumentan el riesgo.
-
-La transparencia permite la inspección. La inspección sin transparencia es engañosa y una pérdida de tiempo.
-
-### Inspección
-
-Los artefactos de Scrum y el progreso hacia los objetivos acordados deben ser inspeccionados con frecuencia y de manera diligente para detectar posibles desviaciones o problemas. Para ayudar en la inspección, Scrum proporciona una cadencia en forma de sus cinco eventos.
-
-La inspección permite la adaptación. La inspección sin adaptación se considera inútil. Los eventos de Scrum están diseñados para provocar cambios.
-
-### Adaptación
-
-Si algún aspecto de un proceso se desvía de los límites aceptables o si el producto resultante no es aceptable, el proceso que se está aplicando o los materiales que se están produciendo deben ajustarse. El ajuste debe realizarse lo antes posible para minimizar más desviaciones.
-
-La adaptación se vuelve más difícil cuando las personas involucradas no están empoderadas o no son autogestionadas. Se espera que un equipo Scrum se adapte en el momento en que aprenda algo nuevo a través de la inspección.
 
 ## Valores de Scrum
 
