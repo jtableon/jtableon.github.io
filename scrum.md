@@ -43,9 +43,13 @@ Es importante destacar que el backlog es una lista dinámica que se irá actuali
 
 Un ejemplo de historia de usuario puede estar formado por los siguientes campos: nombre, descripción de la historia, prioridad y estimación de esfuerzo.
 
+
 ### Sprints
 
 Un sprint o iteración es un periodo de tiempo fijo en el que se debe obtener una entrega del proyecto que proporcione valor. Un sprint suele durar entre 1 y 4 semanas y en cada sprint se deben añadir algunas de las funcionalidades extraídas del backlog.
+
+A cada historia de usuario en el backlog se le asigna un tiempo, generalmente en horas, días o incluso semanas. Así, el tiempo total estimado de un sprint es la suma de todas las historias de usuario seleccionadas para ese sprint.
+Para determinar si el tiempo estimado total difiere mucho del tiempo real, podemos usar algunas herramientas adicionales, como los gráficos de quemado (burndown charts), que nos ayudan de manera gráfica a determinar qué medidas se pueden tomar para reducir esta diferencia.
 
 ### Sprint Planning (Reunión de planificación)
 
@@ -88,7 +92,17 @@ Las ventajas de realizar esta reunión diaria son numerosas:
 
 ### Sprint Review (Revisión del Sprint)
 
+La Revisión del Sprint es la reunión que se lleva a cabo al final de cada sprint. En esta reunión, el equipo de desarrollo presenta el trabajo completado durante el sprint a los interesados y al Product Owner.
+
+El Product Owner se encarga de validar si el trabajo realizado por el equipo cumple con los objetivos del sprint. Además podrá proponer mejoras o modificaciones que deberán reflejarse en la lista de requerimientos (backlog) para siguientes sprints.
+
+Esta reunión también es un momento idóneo paa recibir retroalimentación de los interesados, lo que puede ayudar a ajustar el rumbo del proyecto y priorizar el trabajo futuro.
+
+
 ### Sprint Retrospective (Retrospectiva del Sprint)
 
+Es una forma de autoevaluar el proceso de trabajo del equipo. Se puede realizar al finalizar un sprint o cada 2-3 sprints. 
+
+El objetivo principal de la retrospectiva es identificar cómo ha actuado el equipo en el sprint, qué  problemas han surgido y si se han afrontado de forma correcta. Al final de la reunión, el equipo debe obtener un plan de mejora para el próximo sprint. Es un espacio seguro donde todos los miembros del equipo pueden compartir sus pensamientos y sugerencias, fomentando la comunicación abierta y la colaboración.
 
 ---
