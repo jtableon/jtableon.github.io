@@ -73,21 +73,4 @@ A continuación vamos ver dos ejemplos marcos de trabajo ágiles que se pueden u
 
 
 
-## **Kanban vs Scrum**
 
-Kanban tiene algunas similitudes con la metodología Scrum, ya que ambas son metodologías ágiles: ambas requieren equipos colaborativos y autogestionados, y ambas se centran en liberar software con frecuencia. Sin embargo, hay algunas diferencias importantes entre ellas:
-
-| Kanban               | Scrum                        |
-|----------------------|------------------------------|
-| No tiene roles prescritos | ScrumMaster, ProductOwner... |
-| Entregas continuas      | Sprints en bloques de tiempo   |
-| Se pueden hacer cambios en cualquier momento | No se permiten cambios durante el sprint |
-
-Ambas metodologías pueden aplicarse al mismo tiempo. Scrum es más adecuado para dar retroalimentación al equipo y para la planificación a corto plazo, mientras que Kanban puede usarse para el trabajo diario o en entornos con un alto grado de variabilidad en las prioridades.
-
-### **Ejercicio 2:**
-
-En este video tienes un ejemplo de la metodología Kanban. Intenta responder a estas preguntas después de verlo:
-
-- ¿Cuál es la función principal de los límites de WIP? ¿Qué sucede cuando intentamos mover una tarea a una columna que excede este límite?
-- ¿Cómo se pueden combinar Kanban y Scrum? ¿Cuál es el propósito principal de añadir Scrum a Kanban?
