@@ -1,34 +1,20 @@
-### Scrum
+# SCRUM 
+
+## ¿Qué es Scrum?
+
+Scrum es un marco de trabajo ágil que se puede utilizar para abordar proyectos complejos. Su objetivo es facilitar la colaboración entre equipos y mejorar la entrega de productos de manera incremental y continua, permitiendo a los equipos ser más ágiles y adaptarse a los cambios.
+
+Este marco de trabajo se puede aplicar tanto en proyectos de desarrollo de software como en proyectos de sistemas o de otros ámbitos. 
 
 
-Scrum es una metodología ágil que se puede utilizar en proyectos complejos. Utiliza procesos iterativos e incrementales, y puede aplicarse tanto a productos de software o sistemas como a otros ámbitos. Su nombre proviene de la "melée" que realizan los jugadores de rugby.
+## Pilares de Scrum
 
-## **Pilares de Scrum**
+Scrum se basa en tres pilares fundamentales:
 
-## **Roles**
+1. **Transparencia**: Todos los aspectos del proceso de desarrollo deben ser visibles para todos los miembros del equipo. Esto significa que el trabajo, el progreso y los obstáculos deben ser claros para el equipo y los interesados. La transparencia ayuda a fomentar la confianza y la colaboración.
 
-Los principales roles en Scrum son:
+2. **Inspección**: Se deben realizar inspecciones regulares a través de reuniones, para evaluar el progreso y la calidad del trabajo. La inspección permite identificar problemas y áreas de mejora, asegurando que el equipo se mantenga en el camino correcto.
 
-- **ScrumMaster**, equivalente a un jefe de proyecto, aunque este rol no existe implícitamente en Scrum, ya que el propio equipo de trabajo se autogestiona. Su tarea principal es asegurarse de que el método Scrum se utiliza correctamente y que no hay influencias externas que lo perturben.
-- **ProductOwner**, quien representa al cliente, aunque no necesita formar parte de la empresa del cliente. Incluso puede ser alguien del propio equipo de trabajo.
-- **Equipo de desarrolladores.**
-
-## **Proceso**
-
-Para comenzar, el equipo de trabajo debe recopilar los requisitos del usuario del cliente (tanto gerentes como empleados que van a usar la aplicación). Las características de la aplicación se recopilan a través de historias de usuario, que básicamente son un conjunto de tarjetas de papel en las que el cliente describe las funcionalidades del sistema. Cada historia debe ser comprensible y concreta, para que el equipo pueda implementarla en pocas semanas. Se les pide a los usuarios de la empresa cliente que escriban lo que esperan de la aplicación. El conjunto completo de historias se recopila en una colección llamada **backlog**. De este backlog, algunas historias formarán finalmente parte de la aplicación (el resto serán descartadas).
-
-A partir de aquí, comenzamos el proceso de desarrollo, basado en iteraciones llamadas **sprints**. Cada iteración dura de 2 a 4 semanas y produce un prototipo o versión operativa del producto. En este incremento, se añaden algunas de las funcionalidades extraídas del backlog. El conjunto de requisitos a añadir en cada iteración se decide en una reunión de planificación, donde el Product Owner elige algunos elementos para añadir, y el equipo decide cuáles se pueden añadir en la próxima iteración. Luego, durante la iteración, el backlog se congela, es decir, no podemos cambiar ningún requisito anterior hasta que comience la siguiente iteración.
-
-Además de la reunión al inicio de la iteración, en Scrum también hay reuniones diarias, donde se discute el estado del proyecto, lo que se ha hecho y lo que está por hacerse. También hay una reunión final al terminar la iteración para revisar la versión o prototipo obtenido.
-
-## **Estimación de tiempo**
-
-A cada historia de usuario en el backlog se le asigna un tiempo, generalmente en horas, días o incluso semanas. Así, el tiempo total estimado de un sprint es la suma de todas las historias de usuario seleccionadas para ese sprint.
-
-Para determinar si el tiempo estimado total difiere mucho del tiempo real, podemos usar algunas herramientas adicionales, como los **gráficos de quemado** (*burndown charts*), que nos ayudan de manera gráfica a determinar qué medidas se pueden tomar para reducir esta diferencia.
-
-<p align="center">
-  <img src="/burndown_charts.png">
-</p>
+3. **Adaptación**: El equipo debe ser capaz de adaptar su enfoque y procesos en función de lo que se ha aprendido durante las inspecciones. Si se detecta que algo no está funcionando como se esperaba, el equipo debe ser flexible y estar dispuesto a realizar cambios para mejorar continuamente.
 
 ---
