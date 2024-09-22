@@ -1,10 +1,8 @@
 # SCRUM 
 
-Esta versión en HTML de la Guía de Scrum es una traducción directa de la versión de noviembre de 2020 disponible como PDF aquí.
+## ¿Qué es Scrum?
 
-## Definición de Scrum
-
-Scrum es un marco ligero que ayuda a personas, equipos y organizaciones a generar valor a través de soluciones adaptativas para problemas complejos.
+Scrum es un marco de trabajo ágil que se utiliza principalmente en el desarrollo de software, aunque también se puede aplicar en otros campos. Su objetivo es facilitar la colaboración entre equipos y mejorar la entrega de productos de manera incremental y continua. 
 
 En pocas palabras, Scrum requiere un Scrum Master para fomentar un entorno donde:
 
