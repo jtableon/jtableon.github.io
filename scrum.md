@@ -34,7 +34,7 @@ Para que el Product Owner tenga éxito, toda la organización debe respetar sus 
 
 ## Proceso Scrum
 
-# Backlog (Lista de requerimientos)
+### Backlog (Lista de requerimientos)
 Inicialmente, el Product Owner se encarga de recopilar los requisitos del proyecto a través de historias de usuario. Una histora de usuario es la descripción de una funcionalidad que se debe implementar en el proyecto. Cada historia debe ser comprensible y concreta, para que el equipo pueda implementarla en pocas semanas. Se les pide a los usuarios de la empresa cliente que escriban lo que esperan de cada funcionalidad. 
 
 El conjunto completo de historias se recopila en una colección llamada **Product Backlog**. De este backlog, algunas historias formarán finalmente parte de la aplicación y otras serán descartadas.
@@ -43,16 +43,28 @@ Es importante destacar que el backlog es una lista dinámica que se irá actuali
 
 Un ejemplo de historia de usuario puede estar formado por los siguientes campos: nombre, descripción de la historia, prioridad y estimación de esfuerzo.
 
-# Sprints
+### Sprints
 
 Un sprint o iteración es un periodo de tiempo fijo en el que se debe obtener una entrega del proyecto que proporcione valor. Un sprint suele durar entre 1 y 4 semanas y en cada sprint se deben añadir algunas de las funcionalidades extraídas del backlog.
 
-# Sprint Planning (Reunión de planificación)
+### Sprint Planning (Reunión de planificación)
 
-Al comenzar cada iteración, se realiza una reunión de planificación con todo el equipo donde el Product Owner indica los elementos del backlog que se deben desarrollar en esta iteración y su prioridad.  algunos elementos para añadir, y el equipo decide cuáles se pueden añadir en la próxima iteración. Luego, durante la iteración, el backlog se congela, es decir, no podemos cambiar ningún requisito anterior hasta que comience la siguiente iteración.
+Al comenzar cada iteración, se realiza una reunión de planificación con todo el equipo, donde el Product Owner indica qué funcionalides se espera que se entreguen al finalizar esa iteración y con qué prioridad. 
+
+El equipo completo decide qué requerimientos com mayor prioridad del backlog se pueden realizar en esa iteración y se planifica su desarrollo para que termine en la fecha final de ese sprint. Para poder planificar su desarrollo es importante desglosar cada tarea en tareas más pequeñas y determinar si una tarea depende de la realización de otra. En esta misma reunión se puede decidir qué tareas sea asignan a cada miembro del equipo.
+
+Durante la iteración, el backlog se congela, es decir, no podemos cambiar ningún requisito anterior hasta que comience la siguiente iteración. Tampoco se puede modificar la fecha final de ese sprint.
+
+En esta reunión, el Scrum Master es el encargado de asegurarse de que el equipo comprende que se espera obtener al final de la iteración y que disponen de todo lo necesario para completar su trabajo.
+
+
+### Daily Scrum (Reunión diaria)
 
 Además de la reunión al inicio de la iteración, en Scrum también hay reuniones diarias, donde se discute el estado del proyecto, lo que se ha hecho y lo que está por hacerse. También hay una reunión final al terminar la iteración para revisar la versión o prototipo obtenido.
 
+### Sprint Review (Revisión del Sprint)
+
+### Sprint Retrospective (Retrospectiva del Sprint)
 
 
 ---
