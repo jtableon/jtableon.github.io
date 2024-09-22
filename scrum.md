@@ -23,21 +23,13 @@ Un equipo Scrum está compuesto por un Scrum Master, un Product Owner y el Equip
 
 En el equipo Scrum no hay sub-equipos ni jerarquías. Es un conjunto de profesionales centrado en un objetivo en común: el **Product Goal** (Objetivo del Producto). El equipo Scrum debe ser multifuncional, lo que significa que deben tener todas las habilidades necesarias para crear valor en cada Sprint. También son autogestionados, lo que significa que deciden internamente quién hace qué, cuándo y cómo.
 
-1. **Product Owner (Propietario del Producto)**
-
-El Product Owner es el responsable de definir y priorizar los requisitos del proyecto que se va a desarrollar. Para ello, actúa como enlace entre el equipo de trabajo y el cliente o destinatario del proyecto. Puede ser parte de la empresa del cliente o incluso alguien del propio equipo de trabajo. 
-
+1. **Product Owner (Propietario del Producto)**: El Product Owner es el responsable de definir y priorizar los requisitos del proyecto que se va a desarrollar. Para ello, actúa como enlace entre el equipo de trabajo y el cliente o destinatario del proyecto. Puede ser parte de la empresa del cliente o incluso alguien del propio equipo de trabajo. 
 El Producto Owner es el responsable de maximizar el valor del producto que se está desarrollando, intentando que el equipo no haga más tareas sino las taras que aporten más valor al proyecto.  Esto lo logra gestionando el **Product Backlog**, que es una lista priorizada de las características, mejoras y correcciones que se necesitan en el producto.
-
 Para que el Product Owner tenga éxito, toda la organización debe respetar sus decisiones. Las decisiones del Product Owner son visibles en el contenido y el orden del Product Backlog, y los desarrolladores solo deben trabajar con los elementos del Product Backlog que provengan del Product Owner.
 
-2. **Scrum Master**
+2. **Scrum Master**: Su principal tarea es asegurarse de que el equipo siga las prácticas y principios de Scrum. Esto incluye ayudar a eliminar obstáculos que puedan impedir el progreso del equipo y fomentar un ambiente de trabajo colaborativo y productivo. No es un jefe de proyecto o coordinador, puesto que el equipo debe autogestionarse sólo, es un miembro igualitario del equipo.
 
-Su principal tarea es asegurarse de que el equipo siga las prácticas y principios de Scrum. Esto incluye ayudar a eliminar obstáculos que puedan impedir el progreso del equipo y fomentar un ambiente de trabajo colaborativo y productivo. No es un jefe de proyecto o coordinador, puesto que el equipo debe autogestionarse sólo, es un miembro igualitario del equipo.
-
-3. **Equipo de desarrollo**
-
-El equipo de desarrollo es el responsable de crear el producto. Para ello, debe determinar cómo se va a realizar el trabajo y desarrollarlo. Este equipo debe ser multifuncional, debe tener todas las habilidades necesarias para el desarrollo del producto.
+3. **Equipo de desarrollo**: El equipo de desarrollo es el responsable de crear el producto. Para ello, debe determinar cómo se va a realizar el trabajo y desarrollarlo. Este equipo debe ser multifuncional, debe tener todas las habilidades necesarias para el desarrollo del producto.
 
 
 
