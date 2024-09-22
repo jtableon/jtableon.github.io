@@ -109,7 +109,7 @@ El objetivo principal de la retrospectiva es identificar cómo ha actuado el equ
 
 Ejercicio 1:
 
-En este video tienes un resumen del marco de trabajo Scrum. Después de verlo, intenta responder a las siguientes preguntas:
+En [este video](https://www.youtube.com/watch?v=XU0llRltyFM)  tienes un resumen del marco de trabajo Scrum. Después de verlo, intenta responder a las siguientes preguntas:
 
 - ¿Qué es un sprint en Scrum?
 - ¿Quién es el encargado de priorizar las tareas a realizar en cada sprint?
