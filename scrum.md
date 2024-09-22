@@ -106,3 +106,16 @@ Es una forma de autoevaluar el proceso de trabajo del equipo. Se puede realizar 
 El objetivo principal de la retrospectiva es identificar cómo ha actuado el equipo en el sprint, qué  problemas han surgido y si se han afrontado de forma correcta. Al final de la reunión, el equipo debe obtener un plan de mejora para el próximo sprint. Es un espacio seguro donde todos los miembros del equipo pueden compartir sus pensamientos y sugerencias, fomentando la comunicación abierta y la colaboración.
 
 ---
+
+Ejercicio 1:
+
+En este video tienes un resumen del marco de trabajo Scrum. Después de verlo, intenta responder a las siguientes preguntas:
+
+- ¿Qué es un sprint en Scrum?
+- ¿Quién es el encargado de priorizar las tareas a realizar en cada sprint?
+- ¿Cómo se puede calcular la fecha final de entrega de un sprint?
+
+
+
+
+
