@@ -45,7 +45,7 @@ Ambas metodologías se pueden aplicar al mismo tiempo. Scrum es más adecuado pa
 
 ---
 
-## Ejercicio 2:
+### Ejercicio 2:
 
 En [este video](https://www.youtube.com/watch?v=R8dYLbJiTUE) tienes un ejemplo de la metodología Kanban. Intenta responder a estas preguntas después de verlo:
 
