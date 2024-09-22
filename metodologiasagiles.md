@@ -68,7 +68,7 @@ La idea principal es definir las pruebas que el sistema debe pasar antes de escr
 A continuación vamos ver dos ejemplos marcos de trabajo ágiles que se pueden utilizar para el desarrollo de proyectos completos:
 
 - [Scrum](scrum.md)
-- Kanban
+- [Kanban](kanban.md)
 - DevOps
 
 
