@@ -1,13 +1,15 @@
 ### Scrum
 
 
-Scrum es una metodología ágil que se puede utilizar en proyectos complejos. Utiliza procesos iterativos e incrementales, y puede aplicarse tanto a productos de software como a otros ámbitos. Su nombre proviene de la "melée" que realizan los jugadores de rugby.
+Scrum es una metodología ágil que se puede utilizar en proyectos complejos. Utiliza procesos iterativos e incrementales, y puede aplicarse tanto a productos de software o sistemas como a otros ámbitos. Su nombre proviene de la "melée" que realizan los jugadores de rugby.
+
+## ** Pilares de Scrum**
 
 ## **Roles**
 
 Los principales roles en Scrum son:
 
-- **ScrumMaster**, equivalente a un gerente de proyecto, aunque este rol no existe implícitamente en Scrum, ya que el propio equipo de trabajo se autogestiona. Su tarea principal es asegurarse de que el método Scrum se utiliza correctamente y que no hay influencias externas que lo perturben.
+- **ScrumMaster**, equivalente a un jefe de proyecto, aunque este rol no existe implícitamente en Scrum, ya que el propio equipo de trabajo se autogestiona. Su tarea principal es asegurarse de que el método Scrum se utiliza correctamente y que no hay influencias externas que lo perturben.
 - **ProductOwner**, quien representa al cliente, aunque no necesita formar parte de la empresa del cliente. Incluso puede ser alguien del propio equipo de trabajo.
 - **Equipo de desarrolladores.**
 
@@ -25,7 +27,8 @@ A cada historia de usuario en el backlog se le asigna un tiempo, generalmente en
 
 Para determinar si el tiempo estimado total difiere mucho del tiempo real, podemos usar algunas herramientas adicionales, como los **gráficos de quemado** (*burndown charts*), que nos ayudan de manera gráfica a determinar qué medidas se pueden tomar para reducir esta diferencia.
 
-![Burndown Chart](/burndown_charts.png)
-
+<p align="center">
+  <img src="/burndown_charts.png">
+</p>
 
 ---
