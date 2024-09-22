@@ -17,4 +17,32 @@ Scrum se basa en tres pilares fundamentales:
 
 3. **Adaptación**: El equipo debe ser capaz de adaptar su enfoque y procesos en función de lo que se ha aprendido durante las inspecciones. Si se detecta que algo no está funcionando como se esperaba, el equipo debe ser flexible y estar dispuesto a realizar cambios para mejorar continuamente.
 
+## Roles en Scrum
+
+Un equipo Scrum está compuesto por un Scrum Master, un Product Owner y el Equipo de Desarrollo. El equipo Scrum debe ser lo suficientemente pequeño como para mantenerse ágil y lo suficientemente grande como para completar un trabajo significativo dentro de un Sprint. Generalmente, suelen estar formados por 10 personas como máximo.
+
+En el equipo Scrum no hay sub-equipos ni jerarquías. Es un conjunto de profesionales centrado en un objetivo en común: el **Product Goal** (Objetivo del Producto). El equipo Scrum debe ser multifuncional, lo que significa que deben tener todas las habilidades necesarias para crear valor en cada Sprint. También son autogestionados, lo que significa que deciden internamente quién hace qué, cuándo y cómo.
+
+### Product Owner (Propietario del Producto)
+
+El Product Owner es el responsable de definir y priorizar los requisitos del proyecto que se va a desarrollar. Para ello, actúa como enlace entre el equipo de trabajo y el cliente o destinatario del proyecto. Puede ser parte de la empresa del cliente o incluso alguien del propio equipo de trabajo. 
+
+El Producto Owner es el responsable de maximizar el valor del producto que se está desarrollando, intentando que el equipo no haga más tareas sino las taras que aporten más valor al proyecto.  Esto lo logra gestionando el **Product Backlog**, que es una lista priorizada de las características, mejoras y correcciones que se necesitan en el producto.
+
+El Product Owner puede hacer el trabajo o delegarlo a otros. Sin embargo, el Product Owner sigue siendo el responsable último.
+
+Para que el Product Owner tenga éxito, toda la organización debe respetar sus decisiones. Las decisiones del Product Owner son visibles en el contenido y el orden del Product Backlog, y los desarrolladores solo deben trabajar con los elementos del Product Backlog que provengan del Product Owner.
+
+### Scrum Master
+
+Su principal tarea es asegurarse de que el equipo siga las prácticas y principios de Scrum. Esto incluye ayudar a eliminar obstáculos que puedan impedir el progreso del equipo y fomentar un ambiente de trabajo colaborativo y productivo. No es un jefe de proyecto o coordinador, puesto que el equipo debe autogestionarse sólo, es un miembro igualitario del equipo.
+
+El Scrum Master es responsable de la efectividad del equipo Scrum. Lo hacen permitiendo que el equipo Scrum mejore sus prácticas dentro del marco de Scrum.
+
+### Equipo de desarrollo
+
+El equipo de desarrollo es el responsable de crear el producto. Para ello, debe determinar cómo se va a realizar el trabajo y desarrollarlo. Este equipo está formado por un conjunto reducido de personas que deben autoorganizarse y tener todas las habilidades necesarias para el desarrollo del producto.
+
+
+
 ---
