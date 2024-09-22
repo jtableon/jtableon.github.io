@@ -32,5 +32,27 @@ Para que el Product Owner tenga éxito, toda la organización debe respetar sus 
 3. **Equipo de desarrollo**: El equipo de desarrollo es el responsable de crear el producto. Para ello, debe determinar cómo se va a realizar el trabajo y desarrollarlo. Este equipo debe ser multifuncional, debe tener todas las habilidades necesarias para el desarrollo del producto.
 
 
+## Proceso Scrum
+
+# Backlog (Lista de requerimientos)
+Inicialmente, el Product Owner se encarga de recopilar los requisitos del proyecto a través de historias de usuario. Una histora de usuario es la descripción de una funcionalidad que se debe implementar en el proyecto. Cada historia debe ser comprensible y concreta, para que el equipo pueda implementarla en pocas semanas. Se les pide a los usuarios de la empresa cliente que escriban lo que esperan de cada funcionalidad. 
+
+El conjunto completo de historias se recopila en una colección llamada **Product Backlog**. De este backlog, algunas historias formarán finalmente parte de la aplicación y otras serán descartadas.
+
+Es importante destacar que el backlog es una lista dinámica que se irá actualizando a lo largo del desarrollo del proyecto, pudiéndose introducir, eliminar o modificar funcionalidades ya existentes.
+
+Un ejemplo de historia de usuario puede estar formado por los siguientes campos: nombre, descripción de la historia, prioridad y estimación de esfuerzo.
+
+# Sprints
+
+Un sprint o iteración es un periodo de tiempo fijo en el que se debe obtener una entrega del proyecto que proporcione valor. Un sprint suele durar entre 1 y 4 semanas y en cada sprint se deben añadir algunas de las funcionalidades extraídas del backlog.
+
+# Sprint Planning (Reunión de planificación)
+
+Al comenzar cada iteración, se realiza una reunión de planificación con todo el equipo donde el Product Owner indica los elementos del backlog que se deben desarrollar en esta iteración y su prioridad.  algunos elementos para añadir, y el equipo decide cuáles se pueden añadir en la próxima iteración. Luego, durante la iteración, el backlog se congela, es decir, no podemos cambiar ningún requisito anterior hasta que comience la siguiente iteración.
+
+Además de la reunión al inicio de la iteración, en Scrum también hay reuniones diarias, donde se discute el estado del proyecto, lo que se ha hecho y lo que está por hacerse. También hay una reunión final al terminar la iteración para revisar la versión o prototipo obtenido.
+
+
 
 ---
