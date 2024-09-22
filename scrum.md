@@ -3,7 +3,7 @@
 
 Scrum es una metodología ágil que se puede utilizar en proyectos complejos. Utiliza procesos iterativos e incrementales, y puede aplicarse tanto a productos de software o sistemas como a otros ámbitos. Su nombre proviene de la "melée" que realizan los jugadores de rugby.
 
-## ** Pilares de Scrum**
+## **Pilares de Scrum**
 
 ## **Roles**
 
