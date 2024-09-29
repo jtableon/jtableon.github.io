@@ -39,9 +39,8 @@ En DevOps se utiliza un bucle infinito para representar las fases del ciclo de v
 Las fases del ciclo de vida en DevOps se pueden agrupar en 7 Cs para mayor claridad:
 
 1. **Desarrolo contínuo (CD)**: esta fase implica la planificación y codificación del software.
-    -**Planificación**: En esta fase se definen los objetivos, requisitos y tareas del proyecto a partir de los requisitos proporcionados por el cliente. En esta fase se utilizan herramientas de gestión de proyectos para organizar y priorizar las tareas. Algunas de las más utilizadas son Jira y Trello.
-
-**Codificación**: el equipo de desarrollo se encarga de escribir el código e integrarlo en un repositorio compartido. En esta fase es necesario utilizar herramientas que permitan almacenar, compartir y llevar un control de versiones de todo el código. Algunas herramientas utilizadas son GitHub y GitLab.
+- Planificación: En esta fase se definen los objetivos, requisitos y tareas del proyecto a partir de los requisitos proporcionados por el cliente. En esta fase se utilizan herramientas de gestión de proyectos para organizar y priorizar las tareas. Algunas de las más utilizadas son Jira y Trello.
+- Codificación: el equipo de desarrollo se encarga de escribir el código e integrarlo en un repositorio compartido. En esta fase es necesario utilizar herramientas que permitan almacenar, compartir y llevar un control de versiones de todo el código. Algunas herramientas utilizadas son GitHub y GitLab.
 3. **Integración contínua (CI):**
 4. **Pruebas contínuas:**
 5. **Despliegue contínuo :**
