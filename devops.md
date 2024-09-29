@@ -7,9 +7,10 @@ El término DevOps proviene de la combinación de los términos "development" (d
 Al adoptar DevOps se adopta un conjunto de prácticas, herramientas y filosofía que permite automatizar e integrar procesos que comparten los equipos de desarrollo y de operaciones.
 
 En el marco de trabajo DevOps el equipo de desarrollo y de operaciones de TI colaboran durante todo el ciclo de vida de un producto.
-
  
-
+<p align="center">
+  <img src="devopsJ.png">
+</p>
 
 ## Pilares de Scrum
 
