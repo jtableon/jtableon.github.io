@@ -31,9 +31,13 @@ En DevOps se pueden identificar las siguientes fases:
 
 6. **Despliegue o Implementación**: El software se despliega en el entorno de preproducción y producción. La implementación continua permite que los cambios se entreguen rápidamente y con menos riesgo.
 
-7. **Operaciones**:  El software se monitorea en producción para asegurar su rendimiento y disponibilidad. Se utilizan herramientas de monitoreo y registro para detectar y resolver problemas.
+7. **Operaciones**: Se centra en asegurar que los entornos de ejecución están correctamente dimensionados y configurados para que se garantice el funcionamiento correcto del software. Los entornos de ejecución que se utilizan normalmente son:
+   - Entorno de desarrollo: la máquina de cada miembro del equipo.
+   - Entrono de pruebas: donde se ejecuta la última versión del software disponible.
+   - Entrono de pre-producción: intenta replicar el entorno de producción tanto como se pueda: misma versión y actualizaciones del SO, misma configuración de hardware, última versión del software etc.
+   - Entorno de producción: entorno donde los usuarios tendrán acceso al software.
    
-8. **Monitorización - Retroalimentación**: Se recopilan datos y comentarios de los usuarios y del sistema para identificar áreas de mejora. Esta información se utiliza para planificar futuras actualizaciones y mejoras, realimentando de esta manera la fase de planificación. Algunas herramientas que se pueden utilizar para ello son Grafana y Prometheus, herramientas que nos permiten obtener medidas sobre el rendimiento del sistema, incluyendo uso de la memoria y CPU, tráfico de red, tiempos de respuesta etc. 
+9. **Monitorización - Retroalimentación**: Se recopilan datos y comentarios de los usuarios y del sistema para identificar áreas de mejora. Esta información se utiliza para planificar futuras actualizaciones y mejoras, realimentando de esta manera la fase de planificación. Algunas herramientas que se pueden utilizar para ello son Grafana y Prometheus, herramientas que nos permiten obtener medidas sobre el rendimiento del sistema, incluyendo uso de la memoria y CPU, tráfico de red, tiempos de respuesta etc. 
 
 ## Las 7Cs de DevOps
 Las fases del ciclo de vida en DevOps se agrupan en lo que se conoce como las 7Cs, que se encargan de gruiar el proceso de desarrollo de software de principio a fin y de una forma contínua: desarrollo contínuo (CD), intengración contínua (CI), pruebas contínuas, despliegue contínuo, retroalimentación contínua, monitorización contínua y operaciones contínuas
@@ -51,7 +55,7 @@ Las fases del ciclo de vida en DevOps se agrupan en lo que se conoce como las 7C
 12. **Monitorización contínua**: consiste en la supervisión constante de las aplicaciones y de la infraestructura que las aloja para detectar y resolver problemas rápidamente.
    
 
-14. **Operaciones contínuas:**
+14. **Operaciones contínuas**: las operaciones continuas tienen como objetivo minimizar el tiempo de inactividad y evitar interrupciones en el servicio a los usuarios. Se intenta optimizar las aplicaciones y entornos para obtener una mayor estabilidad y rendimiento. También contribuye a alimentar la fase de planificación mediante informes de errores y mejoras planteadas por los usuarios.
 
 
 ---
