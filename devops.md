@@ -37,25 +37,24 @@ En DevOps se pueden identificar las siguientes fases:
    - Entrono de pre-producción: intenta replicar el entorno de producción tanto como se pueda: misma versión y actualizaciones del SO, misma configuración de hardware, última versión del software etc.
    - Entorno de producción: entorno donde los usuarios tendrán acceso al software.
    
-9. **Monitorización y Retroalimentación**: Se recopilan datos y comentarios de los usuarios y del sistema para identificar áreas de mejora. Esta información se utiliza para planificar futuras actualizaciones y mejoras, realimentando de esta manera la fase de planificación. Algunas herramientas que se pueden utilizar para ello son Grafana y Prometheus, herramientas que nos permiten obtener medidas sobre el rendimiento del sistema, incluyendo uso de la memoria y CPU, tráfico de red, tiempos de respuesta etc. 
+8. **Monitorización y Retroalimentación**: Se recopilan datos y comentarios de los usuarios y del sistema para identificar áreas de mejora. Esta información se utiliza para planificar futuras actualizaciones y mejoras, realimentando de esta manera la fase de planificación. Algunas herramientas que se pueden utilizar para ello son Grafana y Prometheus, herramientas que nos permiten obtener medidas sobre el rendimiento del sistema, incluyendo uso de la memoria y CPU, tráfico de red, tiempos de respuesta etc. 
 
 ## Las 7Cs de DevOps
-Las fases del ciclo de vida en DevOps se agrupan en lo que se conoce como las 7Cs, que se encargan de gruiar el proceso de desarrollo de software de principio a fin y de una forma contínua: desarrollo contínuo (CD), intengración contínua (CI), pruebas contínuas, despliegue contínuo, retroalimentación contínua, monitorización contínua y operaciones contínuas
+Las fases del ciclo de vida en DevOps se agrupan en lo que se conoce como las 7Cs, que se encargan de guiar el proceso de desarrollo de software de principio a fin y de una forma contínua: desarrollo contínuo (CD), intengración contínua (CI), pruebas contínuas, despliegue contínuo, retroalimentación contínua, monitorización contínua y operaciones contínuas
 
 1. **Desarrolo contínuo (CD)**: esta fase implica la planificación y codificación del software. DevOps fomenta lanzamientos de software regulares y frecuentes. Para ello, cada vez que se crea un trozo de código, se prueba, se construye y se despliega en producción. De esta manera, se mejora la calidad del código y se agiliza la detección y correción de fallos.
    
-3. **Integración contínua (CI)**: cuando el desarrollador finaliza una parte del código en su máquina, lo integra en el repositorio compartido. Una vez allí se construye una versión de la apliación y se pasa la batería de pruebas, lo que ayuda a detectar errores rápidamente.
+2. **Integración contínua (CI)**: cuando el desarrollador finaliza una parte del código en su máquina, lo integra en el repositorio compartido. Una vez allí se construye una versión de la apliación y se pasa la batería de pruebas, lo que ayuda a detectar errores rápidamente.
    
-7. **Pruebas contínuas**: las pruebas se automatizan para garantizar que cada cambio de código sea seguro y funcione adecuadamente.
+3. **Pruebas contínuas**: las pruebas se automatizan para garantizar que cada cambio de código sea seguro y funcione adecuadamente.
 
-9. **Despliegue contínuo**: consiste en el proceso de desplegar la aplicación de forma automática en el entorno de producción cuando se hayan completado las fases de pruebas y constucción.
+4. **Despliegue contínuo**: consiste en el proceso de desplegar la aplicación de forma automática en el entorno de producción cuando se hayan completado las fases de pruebas y constucción.
    
-10. **Retroalimentación contínua**: una vez los usuarios utilizan la aplicación nos pueden enviar comentarios sobre el redimiento, fallos detectados o cualquier otra cosa que afecte a la experiencia del usuario. Gracias a esta retroalimentación continua se mejora el rendimiento de la aplicación y se reducen los fallos en el código.
+5. **Retroalimentación contínua**: una vez los usuarios utilizan la aplicación nos pueden enviar comentarios sobre el redimiento, fallos detectados o cualquier otra cosa que afecte a la experiencia del usuario. Gracias a esta retroalimentación continua se mejora el rendimiento de la aplicación y se reducen los fallos en el código.
     
-12. **Monitorización contínua**: consiste en la supervisión constante de las aplicaciones y de la infraestructura que las aloja para detectar y resolver problemas rápidamente.
+6. **Monitorización contínua**: consiste en la supervisión constante de las aplicaciones y de la infraestructura que las aloja para detectar y resolver problemas rápidamente.
    
-
-14. **Operaciones contínuas**: las operaciones continuas tienen como objetivo minimizar el tiempo de inactividad y evitar interrupciones en el servicio a los usuarios. Se intenta optimizar las aplicaciones y entornos para obtener una mayor estabilidad y rendimiento. También contribuye a alimentar la fase de planificación mediante informes de errores y mejoras planteadas por los usuarios.
+7. **Operaciones contínuas**: las operaciones continuas tienen como objetivo minimizar el tiempo de inactividad y evitar interrupciones en el servicio a los usuarios. Se intenta optimizar las aplicaciones y entornos para obtener una mayor estabilidad y rendimiento. También contribuye a alimentar la fase de planificación mediante informes de errores y mejoras planteadas por los usuarios.
 
 
 ---
