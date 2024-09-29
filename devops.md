@@ -1,10 +1,14 @@
-# SCRUM 
+# DevOps
 
-## ¿Qué es Scrum?
+## ¿Qué es DevOps?
 
-Scrum es un marco de trabajo ágil que se puede utilizar para abordar proyectos complejos. Su objetivo es facilitar la colaboración entre equipos y mejorar la entrega de productos de manera incremental y continua, permitiendo a los equipos ser más ágiles y adaptarse a los cambios.
+El término DevOps proviene de la combinación de los términos "development" (desarrollo) y "operations" (operaciones), y promueve la coordinación y colaboración de estos dos equipos para ofrecer productos de mejor calidad, más confiables y de forma más rápida. De esta manera, se pone fin al aislamiento entre los equipos de desarrollo y operaciones.
 
-Este marco de trabajo se puede aplicar tanto en proyectos de desarrollo de software como en proyectos de sistemas o de otros ámbitos. 
+Al adoptar DevOps se adopta un conjunto de prácticas, herramientas y filosofía que permite automatizar e integrar procesos que comparten los equipos de desarrollo y de operaciones.
+
+En el marco de trabajo DevOps el equipo de desarrollo y de operaciones de TI colaboran durante todo el ciclo de vida de un producto.
+
+ 
 
 
 ## Pilares de Scrum
