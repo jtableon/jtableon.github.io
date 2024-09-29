@@ -12,15 +12,33 @@ En el marco de trabajo DevOps el equipo de desarrollo y de operaciones de TI col
   <img src="devopsJ.png">
 </p>
 
-## Pilares de Scrum
+En DevOps se utiliza un bucle infinito para representar las fases del ciclo de vida y cómo se relacionan esas fases entre sí. Estas fases son:
 
-Scrum se basa en tres pilares fundamentales:
+1. **Planificación**: En esta fase se definen los objetivos, requisitos y tareas del proyecto a partir de los requisitos proporcionados por el cliente. En esta fase se utilizan herramientas de gestión de proyectos para organizar y priorizar las tareas. Algunas de las más utilizadas son Jira y Trello.
 
-1. **Transparencia**: Todos los aspectos del proceso de desarrollo deben ser visibles para todos los miembros del equipo. Esto significa que el trabajo, el progreso y los obstáculos deben ser claros para el equipo y los interesados. La transparencia ayuda a fomentar la confianza y la colaboración.
+3. **Codificación** o **Desarrollo": el equipo de desarrollo se encarga de escribir el código necesario e integrarlo en un repositorio compartido. En esta fase es necesario utilizar herramientas que permitan almacenar, compartir y llevar un control de versiones de todo el código. Algunas herramientas utilizadas son GitHub y GitLab.
+   
+5. **Construcción**: En esta fase el código se comopila y se construyen los artefactos necesarios para la implementación. Aquí se incluye la automatización de la construcción del software para asegurar la consistencia y eficiencia.
 
-2. **Inspección**: Se deben realizar inspecciones regulares a través de reuniones, para evaluar el progreso y la calidad del trabajo. La inspección permite identificar problemas y áreas de mejora, asegurando que el equipo se mantenga en el camino correcto.
+7. **Pruebas**: Una vez construido el código se realizan pruebas automatizadas y manuales para asegurar que el software funciona de forma correcta y cumple con los requisitos necesarios. Las pruebas continuas ayudan a identificar y corregir errores de forma rápida.
 
-3. **Adaptación**: El equipo debe ser capaz de adaptar su enfoque y procesos en función de lo que se ha aprendido durante las inspecciones. Si se detecta que algo no está funcionando como se esperaba, el equipo debe ser flexible y estar dispuesto a realizar cambios para mejorar continuamente.
+9. **Liberación (Release)**: Esta fase se enfonca en la gestión y coordinación de la entrega del software a los usuarios finales. En esta fase se asegura que todas las dependencias estén en su lugar y que el software esté listo para ser utilizado en producción.
+
+10. **Despliegue** o **Implementación**: El software se despliega en el entorno de preproducción y producción. La implementación continua permite que los cambios se entreguen rápidamente y con menos riesgo.
+
+   
+11. **Operación**: En esta fase se realiza una moni
+
+   
+13. **Monitorización**
+
+
+
+
+Operaciones: El software se monitorea en producción para asegurar su rendimiento y disponibilidad. Se utilizan herramientas de monitoreo y registro para detectar y resolver problemas.
+
+Retroalimentación: Se recopilan datos y comentarios de los usuarios y del sistema para identificar áreas de mejora. Esta información se utiliza para planificar futuras actualizaciones y mejoras
+
 
 ## Roles en Scrum
 
