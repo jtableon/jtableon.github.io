@@ -7,6 +7,8 @@ El término DevOps proviene de la combinación de los términos "development" (d
 Al adoptar DevOps se adopta un conjunto de prácticas, herramientas y filosofía que permite automatizar e integrar procesos que comparten los equipos de desarrollo y de operaciones.
 
 En el marco de trabajo DevOps el equipo de desarrollo y de operaciones de TI colaboran durante todo el ciclo de vida de un producto.
+
+### Fases del ciclo de vida en DevOps
  
 <p align="center">
   <img src="devopsJ.png">
@@ -16,21 +18,21 @@ En DevOps se utiliza un bucle infinito para representar las fases del ciclo de v
 
 1. **Planificación**: En esta fase se definen los objetivos, requisitos y tareas del proyecto a partir de los requisitos proporcionados por el cliente. En esta fase se utilizan herramientas de gestión de proyectos para organizar y priorizar las tareas. Algunas de las más utilizadas son Jira y Trello.
 
-3. **Codificación** o **Desarrollo": el equipo de desarrollo se encarga de escribir el código necesario e integrarlo en un repositorio compartido. En esta fase es necesario utilizar herramientas que permitan almacenar, compartir y llevar un control de versiones de todo el código. Algunas herramientas utilizadas son GitHub y GitLab.
+2. **Codificación**: el equipo de desarrollo se encarga de escribir el código e integrarlo en un repositorio compartido. En esta fase es necesario utilizar herramientas que permitan almacenar, compartir y llevar un control de versiones de todo el código. Algunas herramientas utilizadas son GitHub y GitLab.
    
-5. **Construcción**: En esta fase el código se comopila y se construyen los artefactos necesarios para la implementación. Aquí se incluye la automatización de la construcción del software para asegurar la consistencia y eficiencia.
+3. **Construcción**: En esta fase el código se compila para poder ser ejecutado y se construyen los artefactos necesarios para la compilación. Aquí se incluye la automatización de la construcción del software para asegurar la consistencia y eficiencia en diferentes plataformas y entornos de despligue (pruebas, preproducción, producción...). Algunas herramientas utilizadas en esta fase son Docker, Ansible, Puppet o JFrog ARtifactory. Estas herramientas nos permiten gestionar versiones y compilaciones. 
 
-7. **Pruebas**: Una vez construido el código se realizan pruebas automatizadas y manuales para asegurar que el software funciona de forma correcta y cumple con los requisitos necesarios. Las pruebas continuas ayudan a identificar y corregir errores de forma rápida.
+4. **Pruebas**: Una vez construido el código se realizan pruebas automatizadas y manuales para asegurar que el software funciona de forma correcta y cumple con los requisitos necesarios. Las pruebas continuas ayudan a identificar y corregir errores de forma rápida. Herramientas como JUnit, Selenium o Codeception permiten programar estas pruebas.
 
-9. **Liberación (Release)**: Esta fase se enfonca en la gestión y coordinación de la entrega del software a los usuarios finales. En esta fase se asegura que todas las dependencias estén en su lugar y que el software esté listo para ser utilizado en producción.
+5. **Liberación (Release)**: Esta fase se enfonca en la gestión y coordinación de la entrega del software a los usuarios finales. En esta fase se asegura que todas las dependencias estén en su lugar y que el software esté listo para ser utilizado en producción.
 
-10. **Despliegue** o **Implementación**: El software se despliega en el entorno de preproducción y producción. La implementación continua permite que los cambios se entreguen rápidamente y con menos riesgo.
-
-   
-11. **Operación**: En esta fase se realiza una moni
+6. **Despliegue o Implementación**: Una vez el software ha pasado las pruebas El software se despliega en el entorno de preproducción y producción. La implementación continua permite que los cambios se entreguen rápidamente y con menos riesgo.
 
    
-13. **Monitorización**
+7. **Operación**: En esta fase se realiza una moni
+
+   
+8. **Monitorización**
 
 
 
