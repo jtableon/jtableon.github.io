@@ -59,10 +59,13 @@ Las fases del ciclo de vida en DevOps se agrupan en lo que se conoce como las 7C
 
 ---
 
-### Ejercicio 1:
+### Debate:
 
-En [este video](https://www.youtube.com/watch?v=XU0llRltyFM)  tienes un resumen del marco de trabajo Scrum. Después de verlo, intenta responder a las siguientes preguntas:
+¿En qué fases crees que interviene un desarrollador y cómo?
+¿Y un administrador de sistemas?
 
-- ¿Qué es un sprint en Scrum?
-- ¿Quién es el encargado de priorizar las tareas a realizar en cada sprint?
-- ¿Cómo se puede calcular la fecha final de entrega de un sprint?
+
+### Vídeo
+En el siguiente <a href="https://www.youtube.com/watch?v=_I94-tJlovg">video</a> puedes ver una explicación sencilla de en qué consiste DevOps. 
+
+
